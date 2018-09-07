@@ -1,0 +1,28 @@
+MGanley
+Aug 13, 2018
+
+Use movement data to determine pitch types.  
+
+A pitch_type column is provided, against which an automated system can measure quality of predictions.
+
+
+**
+
+The Major League Trackman game data provided in the file "trackman_mlb_2017.csv" contains fewer columns 
+than shown in the data glossary and on the Trackman website. We've only provided data useful to pitch classification.
+Hitters and some hitting data have been excluded.
+
+**
+
+This data cannot be shared with anyone outside of the Hackathon.  
+Datasets used for the Hackathon must be deleted and destroyed once the Hackathon is over, 
+with the exception of any data or results that are shared back to the Red Sox organization.
+
+**
+
+Useful Information on Trackman:
+
+https://trackman.zendesk.com/hc/en-us/articles/115002776647-Radar-Measurement-Glossary-of-Terms
+https://trackman.zendesk.com/hc/en-us/articles/115002776787-What-is-TrackMan-Data-
+
+
